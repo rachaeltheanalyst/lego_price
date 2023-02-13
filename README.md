@@ -17,6 +17,8 @@ is going and identify which specific franchises within LEGO® have the best pric
 
 4. [Conclusion](#conclusion)
 
+5. [Source](#source)
+
 <a name="introduction"/></a>
 ## 1. Introduction
 [Back to ToC](#toc)
@@ -211,3 +213,9 @@ Next, the hypothesis test comparing the differences in means between Star Wars a
 evidence that the mean prices of Star Wars and City themed sets are different. I would expect that Star Wars theme is more expensive than City because Star Wars is more popular, but the findings say 
 otherwise. Regardless of how popular a theme is, they are still the same price as other themes. While this may be true for these themes, we did not run this experiment comparing the average prices of 
 the other themes we looked at. If we had compared LEGO NINJAGO and LEGO Friends sets’ average prices for example, we may have gotten completely different results entirely.   
+
+<a name="source"/></a>
+## 5. Source
+[Back to ToC](#toc)
+
+This project was a collaboration between Rachael An, Samantha Murabito, Brenda Gutierrez, and Dana Lesko.
